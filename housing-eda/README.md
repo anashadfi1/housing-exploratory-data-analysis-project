@@ -4,4 +4,4 @@
 <p> In our script, we used this Linear Regression Algorithm to predict the Price of a house based on other properties :  ['Avg. Area Income', 'Avg. Area House Age', 'Avg. Area Number of Rooms',
        'Avg. Area Number of Bedrooms', 'Area Population'] </p>
 <h3> The following plot represseent or Linear regression scatter plot for the correlation between Price prediction and other properties</h3> <br/>
-<img src='imgs/lg_scatter_plot.png' alt="Linear regression">
+<img src='imgs/lr_scatter_plot.png' alt="Linear regression">
