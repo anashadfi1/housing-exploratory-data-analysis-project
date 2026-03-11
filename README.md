@@ -14,13 +14,13 @@
 </div>
 
 <div>
-<h3>The following plot is a matplolib Scatter plot , After training the data, the data points are getting closer to the linear graph, </h3> <br/>
+<h3>The following plot is a matplolib Scatter plot , After training the data, the data points are getting closer to the linear graph </h3> <br/>
 <img src='images/scatterplot.png' href='scatter_plot'>
 </div>
 
 </div>
 
 <div>
-<h3>The following plot is a matplolib Scatter plot , After training the data, the data points are getting closer to the linear graph, </h3> <br/>
+<h3>The following plot is a matplolib histplot, for predicted prices after training the data</h3> <br/>
 <img src='images/predicted_prices_histplot.png' href='predicted_histplot'>
 </div>
