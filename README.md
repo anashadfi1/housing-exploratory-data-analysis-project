@@ -5,7 +5,7 @@
        'Avg. Area Number of Bedrooms', 'Area Population'] </p>
 <div>
 <div>
-## Linear Regression Mathematical Equation
+<h4> Linear Regression Mathematical Equation</h4>
 
 $$
 y = \beta_0 + \beta_1 x
