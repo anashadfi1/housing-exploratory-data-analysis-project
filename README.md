@@ -10,7 +10,17 @@
 
 <div>
 <h3>The following plot is a seaborn heatmap , it represents the Correlation between propreties of our housing data frame </h3> <br/>
-<img src='images/heatmap.png' href='histplot'>
+<img src='images/heatmap.png' href='heatmap'>
 </div>
 
-<>
+<div>
+<h3>The following plot is a matplolib Scatter plot , After training the data, the data points are getting closer to the linear graph, </h3> <br/>
+<img src='images/scatterplot.png' href='scatter_plot'>
+</div>
+
+</div>
+
+<div>
+<h3>The following plot is a matplolib Scatter plot , After training the data, the data points are getting closer to the linear graph, </h3> <br/>
+<img src='images/predicted_prices_histplot.png' href='predicted_histplot'>
+</div>
