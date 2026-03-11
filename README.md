@@ -4,6 +4,14 @@
 <p> In our script, we used this Linear Regression Algorithm to predict the Price of a house based on other properties :  ['Avg. Area Income', 'Avg. Area House Age', 'Avg. Area Number of Rooms',
        'Avg. Area Number of Bedrooms', 'Area Population'] </p>
 <div>
+<div>
+<h4>
+This is the Linear Regression Algorithm Mathematical equation
+$$
+y = \beta_0 + \beta_1 x
+$$
+</h4>
+</div>
 <h3>The following plot is a seaborn histplot , it represents the count of Houses with each price </h3> <br/>
 <img src='images/price_histplot.png' href='histplot'>
 </div>
