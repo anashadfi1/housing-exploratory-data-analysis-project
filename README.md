@@ -7,10 +7,10 @@
 <div>
 <h4>
 This is the Linear Regression Algorithm Mathematical equation
+</h4>
 $$
 y = \beta_0 + \beta_1 x
 $$
-</h4>
 </div>
 <h3>The following plot is a seaborn histplot , it represents the count of Houses with each price </h3> <br/>
 <img src='images/price_histplot.png' href='histplot'>
